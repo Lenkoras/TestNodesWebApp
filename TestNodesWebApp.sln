@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestNodesWeb.Api", "TestNodesWebApp\TestNodesWeb.Api.csproj", "{78AFDE3F-565F-41D5-9AF4-C3A181B1B906}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestNodesWeb.Api", "TestNodesWeb.Api\TestNodesWeb.Api.csproj", "{78AFDE3F-565F-41D5-9AF4-C3A181B1B906}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "Database\Database.csproj", "{76FD95A8-827A-4F23-A6E5-A47AAE2D51C0}"
 EndProject
